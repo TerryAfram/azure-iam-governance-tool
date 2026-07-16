@@ -1,0 +1,2 @@
+# Dependencies for Azure IAM Audit Script
+# Note: This script requires Azure CLI (az) to be installed and configured on the host machine.
