@@ -1,5 +1,12 @@
+# Ignore environment variables
 .env
+
+# Ignore Python cache
 __pycache__/
-*.py[cod]
-data/*.json
+*.pyc
+
+# Ignore system files
 .DS_Store
+
+# Ignore local Azure configuration
+.azure/
