@@ -3,10 +3,10 @@
 An automated python GRC (Governance, Risk, and Compliance) utility designed to enhance identity security within Azure environments by identifying high-risk and dormant accounts.
 
 ## Overview
-This python project provides an automated audit script to identify privileged accounts that lack recent sign-in activity. By flagging accounts that have been inactive for more than 90 days, this tool assists in enforcing the principle of least privilege and maintaining robust access control policies.
+This python security project provides an automated audit script to identify privileged accounts that lack recent sign-in activity. By flagging accounts that have been inactive for more than 90 days, this tool assists in enforcing the principle of least privilege and maintaining robust access control policies.
 
 ## Security Alignment
-This pyhton script aligns with industry-standard security frameworks, including:
+This python script aligns with industry-standard security frameworks, including:
 * **NIST SP 800-53**: Specifically addressing access control (AC) and account management (AC-2) controls.
 * **COBIT**: Supporting the governance of enterprise IT by ensuring authorized access and compliance.
 
